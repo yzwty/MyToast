@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyToast</string>
+    <string name="simple_toast">普通Toast</string>
+    <string name="image_toast">带图片Toast</string>
+</resources>
